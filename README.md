@@ -2,6 +2,8 @@
 
 This repository hosts the annuity yield curve, i.e. the yield curve at which life insurance companies effectively borrow from their customers by selling new annuity policies. The data is available from **1989** to **2021**, usually **twice per year**, for a cross-section of about **20 individual companies** and **aggregated**.
 
+The [individual company data](/data/implied_rates_linear_long.csv) is indexed by the `date` on which the prices were surveyed, the NAIC comany number `co_num`, and the `horizon` in years of the yield. The yield `rate` is given in percent for continuous compounding. The [aggregated data](/data/implied_rates_linear_long_agg.csv) does not have the `co_num` column. If you think there is an update due, please open an issue.
+
 # Procedure
 
 ![Flow Chart](/misc/mermaid-diagram-20210624110523.png)
