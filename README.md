@@ -12,4 +12,4 @@ The payoff patterns of policies that are offered by the same life insurer identi
 
 # Yield Curve
 
-![Flow Chart](/misc/yield curves.png)
+![Yield Curves](/misc/yield_curves.png)
