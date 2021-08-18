@@ -1,6 +1,6 @@
 # Annuity Yield Curve
 
-![Yield Curves](/misc/yield_curves.png)
+![Yield Curves](/misc/yield curves wide.png)
 
 This repository hosts the annuity yield curve, i.e. the yield curve at which life insurance companies effectively borrow from their customers by selling new annuity policies. The data is available from **1989** to **2021**, usually **twice per year**, for a cross-section of about **20 individual companies** and **aggregated**.
 
